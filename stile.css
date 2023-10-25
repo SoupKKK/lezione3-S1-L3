@@ -1,0 +1,47 @@
+hr{border-top: 1px dotted aqua;}
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+header p {
+    background-color: lightyellow;
+    padding:15px;
+    text-align: center;
+} 
+
+div {
+    margin-left: 15cm;
+    margin-right: 15cm;
+}
+
+main h1{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+figcaption{
+    text-align: center;
+    color: gray;
+    padding-top: 20px;
+}
+
+nav {
+    border-left-color: aquamarine;
+    border-left-style: solid;
+    border-left-width: 2px;
+    padding: 5px;
+    }
+nav :first-child{
+    text-transform: uppercase;
+    color: red;
+    line-height: 60%;
+    }
+
+    footer a{
+        color: lightsalmon;
+    }
